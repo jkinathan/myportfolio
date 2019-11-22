@@ -1,0 +1,45 @@
+/* body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+} */
+
+footer {
+    background-color: #212529;
+}
+
+.home {
+    position: relative;
+    text-align: center;
+}
+
+.homecenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: gainsboro;
+}
+
+.imgbio {
+    opacity: 0.7;
+}
+
+.biob {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.arr {
+    padding-left: 30px;
+}
+
+.biob2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
